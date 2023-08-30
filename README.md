@@ -1,5 +1,5 @@
 # Modern-Chair
 Product Page using pure HTML and CSS
 
-## live demo
+## visit link
 https://prashantxk.github.io/Modern-Chair/
